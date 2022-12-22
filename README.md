@@ -5,6 +5,5 @@ This repo will contain comprehensive object detection algorithm and helper funct
 
 TODO
 
-Yolov7,
 Faster R-CNN,
 Utils
